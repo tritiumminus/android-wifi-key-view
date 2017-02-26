@@ -18,4 +18,4 @@ This app should work with all Android Versions >= 4.0.2 (â€žIce Cream Sandwichâ€
 - LG L72 (Android 4.4.2) with SuperSU 1.94
 - LG Nexus 5 (Android 6.0.1) with SuperSU 2.72
 
-Development time: four coffees, two beers and one android reinstall
+Development time: countless android reinstalls
